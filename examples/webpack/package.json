@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "ibm-watson": "latest",
     "shebang-loader": "0.0.1",
     "webpack": "^5.94.0",
